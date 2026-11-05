@@ -1,0 +1,32 @@
+{
+  "clases": {
+    "0": {"nombre": "Regular", "clave": "regular_grid", "descripcion_es": "Malla regular ortogonal", "color": "#1f78b4"},
+    "1": {"nombre": "Irregular", "clave": "irregular_grid", "descripcion_es": "Malla irregular (bloques de tamaño variable)", "color": "#a6cee3"},
+    "2": {"nombre": "Interrumpida", "clave": "broken_grid", "descripcion_es": "Malla fragmentada con discontinuidades", "color": "#33a02c"},
+    "3": {"nombre": "Paralela Deformada", "clave": "warped_parallel", "descripcion_es": "Calles paralelas onduladas", "color": "#ff7f00"},
+    "4": {"nombre": "Bucle / Circuirto pequeño", "clave": "loops_lollipops", "descripcion_es": "Circuitos curvos y fondos de saco", "color": "#e31a1c"},
+    "5": {"nombre": "Disperso", "clave": "sparse", "descripcion_es": "Red dispersa de baja conectividad", "color": "#999999"}
+  },
+  "modelo": {
+    "arquitectura": "SGBNet (gnn0, ChebConv + TopKPooling) — Liu et al. 2025, IJDE",
+    "checkpoint": "best_model_retrained.pth",
+    "entrenado": "2026-07-10 en NVIDIA RTX 5060, split 0 de splits_train_ratio_0.6",
+    "test_accuracy": 0.7749,
+    "test_f1_macro": 0.7437,
+    "checkpoint_paper_accuracy": 0.7259,
+    "dataset": "USNMS (Zenodo 10.5281/zenodo.15315222), 6727 parches 1x1 km de 12 ciudades de EE.UU."
+  },
+  "features_nodo": ["area_div10000", "circuity", "concavity", "number_of_linestrings", "formfacter", "rectanglarity", "elongation", "degree"],
+  "definiciones_verificadas": {
+    "area": "área del bloque en m² Web Mercator (EPSG:3857); el modelo la divide por 10000",
+    "circuity": "circularidad 4*pi*A/P²",
+    "concavity": "A / A_convex_hull",
+    "number_of_linestrings": "n° de aristas viales dirigidas cuya geometría toca el interior del bloque (calles sin salida, pasajes interiores)",
+    "formfacter": "A / (pi * Rmax²), Rmax = distancia máxima centroide→vértices del borde",
+    "rectanglarity": "A / A_rectángulo_mínimo_rotado",
+    "elongation": "largo/ancho del rectángulo mínimo rotado",
+    "degree": "grado rook (bloques vecinos que comparten frontera)",
+    "grafo": "adyacencia rook entre bloques + nodo duplicado del bloque 0 conectado solo al bloque 0 (artefacto replicado del pipeline original)",
+    "parche": "celda de 1000x1000 m Web Mercator; bloques por poligonización de la red vial drive recortada + marco de la celda"
+  }
+}

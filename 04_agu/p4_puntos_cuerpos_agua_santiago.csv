@@ -1,0 +1,35 @@
+﻿sensor_id,calle_sensor,tipo_campana_medicion,latitud,longitud,cuerpo_agua_mas_cercano_global,tipo_cuerpo_agua_global,distancia_cuerpo_agua_global_m,rio_mas_cercano,tipo_rio,distancia_rio_m,lago_mas_cercano,tipo_lago,distancia_lago_m
+C01,La Travesía,Colectora,-33.458527,-70.734394,Estero Sin Nombre / Dren,Canal,1350.23,Estero Sin Nombre / Dren,Canal,1350.23,Laguna Parque R.Poblete,Laguna,7461.04
+C02,Av. General Bonilla,Colectora,-33.452281,-70.741101,Estero Sin Nombre / Dren,Canal,2019.66,Estero Sin Nombre / Dren,Canal,2019.66,Laguna Parque R.Poblete,Laguna,7607.7
+C03,Bascuñan Guerrero,Colectora,-33.460956,-70.673002,Zanjon de La Aguada,Zanjon,2044.33,Zanjon de La Aguada,Zanjon,2044.33,Laguna Parque R.Poblete,Laguna,4835.92
+C04,San Ignacio de Loyola,Colectora,-33.467418,-70.654825,Zanjon de La Aguada,Zanjon,1207.13,Zanjon de La Aguada,Zanjon,1207.13,Laguna Parque R.Poblete,Laguna,6240.15
+C05,Av. Domingo Santa María,Colectora,-33.415374,-70.669436,Río Mapocho,Río,1452.16,Río Mapocho,Río,1452.16,Laguna Parque R.Poblete,Laguna,1533.12
+C06,Carlos Antúnez,Colectora,-33.427248,-70.604662,Canal San Carlos,Canal,1150.6,Canal San Carlos,Canal,1150.6,Laguna Parque Padre Hurtado,Laguna,7070.15
+C07,Antonio Varas,Colectora,-33.447926,-70.610844,Río Mapocho,Río,2706.07,Río Mapocho,Río,2706.07,Laguna Parque R.Poblete,Laguna,8060.94
+C08,Av. Consistorial,Colectora,-33.481395,-70.545772,Canal Las Perdices,Canal,1007.23,Canal Las Perdices,Canal,1007.23,Laguna Parque Padre Hurtado,Laguna,6721.8
+C09,Av. Rojas Magallanes,Colectora,-33.535869,-70.581514,Zanjon de La Aguada,Zanjon,2670.23,Zanjon de La Aguada,Zanjon,2670.23,Masa Lacustre / Laguna,Masa Lacustre,9270.57
+C10,Yungay,Colectora,-33.523578,-70.619367,Zanjon de La Aguada,Zanjon,3556.01,Zanjon de La Aguada,Zanjon,3556.01,Masa Lacustre / Laguna,Laguna,12494.12
+E01,Av. Las Rejas,Estaciones,-33.468179,-70.704782,Zanjon de La Aguada,Zanjon,1602.76,Zanjon de La Aguada,Zanjon,1602.76,Laguna Parque R.Poblete,Laguna,6408.08
+E02,Av. Las Rejas (norte),Estaciones,-33.449957,-70.707301,Estero Sin Nombre / Dren,Canal,3497.34,Estero Sin Nombre / Dren,Canal,3497.34,Laguna Parque R.Poblete,Laguna,4476.59
+E03,Av. Independencia,Estaciones,-33.40806,-70.66067,Río Mapocho,Río,2741.02,Río Mapocho,Río,2741.02,Laguna Parque R.Poblete,Laguna,2906.07
+E04,Av.Ossa,Estaciones,-33.44479,-70.572001,Canal San Carlos,Canal,460.18,Canal San Carlos,Canal,460.18,Laguna Parque Padre Hurtado,Laguna,3925.18
+E05,Av. Vicuña Mackenna,Estaciones,-33.544225,-70.589282,Canal San Carlos,Canal,3925.31,Canal San Carlos,Canal,3925.31,Masa Lacustre / Laguna,Masa Lacustre,8866.91
+E06,Carlos Valdovinos,Estaciones,-33.48008,-70.645546,Zanjon de La Aguada,Zanjon,370.84,Zanjon de La Aguada,Zanjon,370.84,Laguna Parque R.Poblete,Laguna,8208.34
+E07,Av. Pedro Aguirre Cerda,Estaciones,-33.496248,-70.706818,Zanjon de La Aguada,Zanjon,2037.83,Zanjon de La Aguada,Zanjon,2037.83,Laguna Parque R.Poblete,Laguna,9990.74
+S01,Jorge Matte Gormaz,Servicio,-33.436597,-70.591027,Canal San Carlos,Canal,965.56,Canal San Carlos,Canal,965.56,Laguna Parque Padre Hurtado,Laguna,5606.85
+S03,Los Conquistadores,Servicio,-33.41816,-70.614145,Río Mapocho,Río,353.78,Río Mapocho,Río,353.78,Laguna Parque R.Poblete,Laguna,7129.02
+S04,Huérfanos,Servicio,-33.439117,-70.646039,Río Mapocho,Río,697.82,Río Mapocho,Río,697.82,Laguna Parque R.Poblete,Laguna,4014.18
+S05,Av. España,Servicio,-33.452,-70.669654,Río Mapocho,Río,3068.31,Río Mapocho,Río,3068.31,Laguna Parque R.Poblete,Laguna,3740.34
+S06,Schubert,Servicio,-33.482297,-70.623062,Zanjon de La Aguada,Zanjon,344.15,Zanjon de La Aguada,Zanjon,344.15,Laguna Parque R.Poblete,Laguna,9798.92
+S07,Ricardo Vial,Servicio,-33.441938,-70.735469,Río Viejo,Estero,2732.69,Río Viejo,Estero,2732.69,Laguna Parque R.Poblete,Laguna,6421.4
+S08,Echeverría,Servicio,-33.425296,-70.653362,Río Mapocho,Río,847.09,Río Mapocho,Río,847.09,Laguna Parque R.Poblete,Laguna,2710.72
+T01,Av. San Pablo,Troncal,-33.44476,-70.734998,Río Viejo,Estero,3050.05,Río Viejo,Estero,3050.05,Laguna Parque R.Poblete,Laguna,6530.79
+T02,Av. Mapocho,Troncal,-33.432207,-70.690522,Laguna Parque R.Poblete,Laguna,1465.42,Río Mapocho,Río,1630.87,Laguna Parque R.Poblete,Laguna,1465.42
+T03,Matucana,Troncal,-33.436846,-70.680274,Laguna Parque R.Poblete,Laguna,1582.43,Río Mapocho,Río,1644.11,Laguna Parque R.Poblete,Laguna,1582.43
+T04,Santa Isabel,Troncal,-33.451758,-70.650888,Río Mapocho,Río,2467.46,Río Mapocho,Río,2467.46,Laguna Parque R.Poblete,Laguna,4682.25
+T05,Teatinos,Troncal,-33.43725,-70.655656,Río Mapocho,Río,752.85,Río Mapocho,Río,752.85,Laguna Parque R.Poblete,Laguna,2969.51
+T06,Av. El Guanaco,Troncal,-33.399952,-70.658362,Canal Los Choros,Canal,3731.67,Canal Los Choros,Canal,3731.67,Laguna Parque R.Poblete,Laguna,3925.29
+T07,Av. Cardenal José María Caro,Troncal,-33.388563,-70.66161,Canal Los Choros,Canal,2170.97,Canal Los Choros,Canal,2170.97,Laguna Parque R.Poblete,Laguna,5118.74
+T08,Eliodoro Yáñez,Troncal,-33.431205,-70.60806,Río Mapocho,Río,1482.18,Río Mapocho,Río,1482.18,Laguna Parque Padre Hurtado,Laguna,7438.74
+T09,Av. Padre Hurtado,Troncal,-33.42597,-70.538305,Canal Las Perdices,Canal,1.25,Canal Las Perdices,Canal,1.25,Laguna Parque Padre Hurtado,Laguna,602.8
+T10,Gran Avenida José Miguel Carrera,Troncal,-33.531045,-70.662627,Estero Sin Nombre / Dren,Canal,7065.29,Estero Sin Nombre / Dren,Canal,7065.29,Masa Lacustre / Laguna,Laguna,12097.56

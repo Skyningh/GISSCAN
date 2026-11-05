@@ -1,0 +1,114 @@
+﻿sensor_id,calle_sensor,tipo_campana_medicion,latitud,longitud,cuerpo_agua_mas_cercano_global,tipo_cuerpo_agua_global,distancia_cuerpo_agua_global_m,rio_mas_cercano,tipo_rio,distancia_rio_m,lago_mas_cercano,tipo_lago,distancia_lago_m
+C02,C02 Av Arturo Prat tramo 2,Colectora,-39.823959,-73.22293,Río Callecalle,Río,403.57,Río Callecalle,Río,403.57,Masa Lacustre / Laguna,Laguna,3688.34
+C03,C03 Av. Argentina,Colectora,-39.825459,-73.209792,Río Callecalle,Río,1179.66,Río Callecalle,Río,1179.66,Masa Lacustre / Laguna,Laguna,4889.85
+C04,C04 Las Zinnias,Colectora,-39.820186,-73.208876,Río Callecalle,Río,727.57,Río Callecalle,Río,727.57,Masa Lacustre / Laguna,Laguna,5310.79
+C05,C05 Uruguay,Colectora,-39.821356,-73.209039,Río Callecalle,Río,816.67,Río Callecalle,Río,816.67,Masa Lacustre / Laguna,Laguna,5214.46
+C06,C06 Valparaiso,Colectora,-39.826206,-73.209537,Río Callecalle,Río,1281.57,Río Callecalle,Río,1281.57,Masa Lacustre / Laguna,Laguna,4877.3
+C07,C07 Alfonso Caï¿½as,Colectora,-39.820043,-73.229342,Río Callecalle,Río,225.11,Río Callecalle,Río,225.11,Masa Lacustre / Laguna,Laguna,3513.9
+C08,C08 Pedro de Valdivia,Colectora,-39.815064,-73.238145,Río Callecalle,Río,578.99,Río Callecalle,Río,578.99,Estero Santa Rosa,Estero,3587.75
+C09,C09 Garcï¿½a Reyes,Colectora,-39.814145,-73.239964,Río Callecalle,Río,632.56,Río Callecalle,Río,632.56,Estero Santa Rosa,Estero,3452.43
+C10,C10 Carlos Anwandter,Colectora,-39.810495,-73.242526,Río Callecalle,Río,373.58,Río Callecalle,Río,373.58,Estero Santa Rosa,Estero,2941.74
+C11,C11 Carampangue,Colectora,-39.8121,-73.241337,Río Callecalle,Río,499.04,Río Callecalle,Río,499.04,Estero Santa Rosa,Estero,3161.96
+C12,C12 Ismael Valdes,Colectora,-39.812708,-73.24212,Río Callecalle,Río,621.13,Río Callecalle,Río,621.13,Estero Santa Rosa,Estero,3256.36
+C13,C13 Caupolican,Colectora,-39.812903,-73.243704,Río Callecalle,Río,592.46,Río Callecalle,Río,592.46,Estero Santa Rosa,Estero,3304.47
+C14,C14 Camilo Henriquez,Colectora,-39.812819,-73.245178,Río Callecalle,Río,434.8,Río Callecalle,Río,434.8,Estero Santa Rosa,Estero,3319.37
+C15,C15 O'Higgins,Colectora,-39.814175,-73.246122,Río Callecalle,Río,384.26,Río Callecalle,Río,384.26,Masa Lacustre / Laguna,Laguna,3485.37
+C16,C16 Janequeo,Colectora,-39.810811,-73.244967,Río Callecalle,Río,333.14,Río Callecalle,Río,333.14,Estero Santa Rosa,Estero,3029.32
+C17,C17 Independencia,Colectora,-39.813932,-73.246863,Río Callecalle,Río,296.83,Río Callecalle,Río,296.83,Masa Lacustre / Laguna,Laguna,3509.55
+C18,C18 Maipu,Colectora,-39.814521,-73.2474,Río Callecalle,Río,253.78,Río Callecalle,Río,253.78,Masa Lacustre / Laguna,Laguna,3418.09
+C19,C19 San Carlos,Colectora,-39.81577,-73.24704,Río Callecalle,Río,328.89,Río Callecalle,Río,328.89,Masa Lacustre / Laguna,Laguna,3242.73
+C20,C20 Lautaro,Colectora,-39.815993,-73.24774,Río Callecalle,Río,259.4,Río Callecalle,Río,259.4,Masa Lacustre / Laguna,Laguna,3202.02
+C21,C21 Esmeralda,Colectora,-39.816333,-73.243933,Río Callecalle,Río,684.17,Río Callecalle,Río,684.17,Masa Lacustre / Laguna,Laguna,3223.22
+C22,C22 El Romance,Colectora,-39.79356,-73.21563,Río Callecalle,Río,637.36,Río Callecalle,Río,637.36,Estero Santa Rosa,Estero,2385.7
+C23,C23 Torobayo,Colectora,-39.834879,-73.268633,Río Cruces,Río,364.72,Río Cruces,Río,364.72,Estero Estancilla,Estero,1788.41
+C24,C24 - Siete,Colectora,-39.840187,-73.278442,Río Valdivia,Río,1035.26,Río Valdivia,Río,1035.26,Estero Estancilla,Estero,1221.08
+L01,L01 Pintor Anwandter,Local,-39.80726,-73.264962,Río Cruces,Río,1191.18,Río Cruces,Río,1191.18,Estero Santa Rosa,Estero,3645.54
+L02,L02 Pedro Montoya,Local,-39.839171,-73.204502,Estero Angochilla,Estero,2405.76,Estero Angochilla,Estero,2405.76,Estero Las Parras,Estero,3724.7
+L03,L03 Alcalde Ricardo Barahona,Local,-39.855523,-73.230546,Estero Sin Nombre / Dren,Estero,503.47,Estero Sin Nombre / Dren,Estero,503.47,Estero Angochilla,Estero,739.51
+L04,L04 Intendente Felix Videla,Local,-39.84813,-73.234717,Estero Sin Nombre / Dren,Estero,940.46,Estero Sin Nombre / Dren,Estero,940.46,Estero Angochilla,Estero,1886.69
+L05,L05 Jaime de la Guarda,Local,-39.851562,-73.235438,Estero Sin Nombre / Dren,Estero,522.26,Estero Sin Nombre / Dren,Estero,522.26,Estero Angochilla,Estero,1527.3
+L06,L06 - Quillahue,Local,-39.842185,-73.237021,Estero Sin Nombre / Dren,Estero,1176.81,Estero Sin Nombre / Dren,Estero,1176.81,Masa Lacustre / Laguna,Laguna,1510.4
+L07,L07 Nibaldo Schwenke,Local,-39.831152,-73.226272,Río Callecalle,Río,1489.61,Río Callecalle,Río,1489.61,Masa Lacustre / Laguna,Laguna,2881.34
+L08,L08 Dalcahue,Local,-39.840078,-73.247633,Masa Lacustre / Laguna,Laguna,293.32,Estero Sin Nombre / Dren,Río,1081.99,Masa Lacustre / Laguna,Laguna,293.32
+L09,L09 Isla del Rey,Local,-39.834337,-73.232188,Masa Lacustre / Laguna,Laguna,2114.51,Río Callecalle,Río,2131.64,Masa Lacustre / Laguna,Laguna,2114.51
+L10,L10 Urmeneta,Local,-39.832243,-73.234298,Río Callecalle,Río,1967.18,Río Callecalle,Río,1967.18,Masa Lacustre / Laguna,Laguna,1994.18
+L11,L11 Suecia,Local,-39.836113,-73.235813,Masa Lacustre / Laguna,Laguna,1666.15,Río Valdivia,Río,1995.73,Masa Lacustre / Laguna,Laguna,1666.15
+L12,L12 - Holanda,Local,-39.835144,-73.242034,Masa Lacustre / Laguna,Laguna,1036.36,Río Valdivia,Río,1311.64,Masa Lacustre / Laguna,Laguna,1036.36
+L13,L13 ï¿½ngel Muï¿½oz,Local,-39.828286,-73.225948,Río Callecalle,Río,1076.27,Río Callecalle,Río,1076.27,Masa Lacustre / Laguna,Laguna,3081.09
+L14,L14 Perï¿½,Local,-39.822038,-73.231871,Río Callecalle,Río,628.64,Río Callecalle,Río,628.64,Masa Lacustre / Laguna,Laguna,3110.6
+L15,L15 Martinez de Bernabï¿½,Local,-39.794518,-73.215429,Río Callecalle,Río,558.02,Río Callecalle,Río,558.02,Estero Santa Rosa,Estero,2440.8
+L16,L16 Rio Cau Cau,Local,-39.837787,-73.207004,Estero Angochilla,Estero,2401.7,Estero Angochilla,Estero,2401.7,Estero Angochilla,Estero,3781.21
+S01,S01 General Montecinos,Servicio,-39.842268,-73.22865,Estero Angochilla,Estero,1779.59,Estero Angochilla,Estero,1779.59,Masa Lacustre / Laguna,Laguna,2429.78
+S02,S02 San Luis,Servicio,-39.843427,-73.21995,Estero Angochilla,Estero,1221.27,Estero Angochilla,Estero,1221.27,Estero Angochilla,Estero,2407.91
+S03,S03 Rubï¿½n Dario,Servicio,-39.836235,-73.207037,Estero Angochilla,Estero,2592.76,Estero Angochilla,Estero,2592.76,Estero Angochilla,Estero,3967.24
+S04,S04 Josï¿½ Victorino Lastarria,Servicio,-39.831273,-73.208305,Río Callecalle,Río,1959.52,Río Callecalle,Río,1959.52,Estero Angochilla,Estero,4527.34
+S05,S05 Patricio Lynch,Servicio,-39.824864,-73.216097,Río Callecalle,Río,721.1,Río Callecalle,Río,721.1,Masa Lacustre / Laguna,Laguna,4283.64
+S06,S06 Los Pelues,Servicio,-39.815629,-73.256725,Río Valdivia,Río,723.13,Río Valdivia,Río,723.13,Masa Lacustre / Laguna,Laguna,3310.49
+S07,S07 Las Encinas,Servicio,-39.809371,-73.253428,Río Callecalle,Río,603.71,Río Callecalle,Río,603.71,Estero Santa Rosa,Estero,3138.45
+S08,S08 Los Laureles,Servicio,-39.813967,-73.254703,Río Callecalle,Río,559.37,Río Callecalle,Río,559.37,Masa Lacustre / Laguna,Laguna,3510.07
+S09,S09 Bombero Hernï¿½ndez,Servicio,-39.810905,-73.223315,Río Callecalle,Río,1113.37,Río Callecalle,Río,1113.37,Estero Santa Rosa,Estero,3340.73
+S10,S10 Bombero Cordova,Servicio,-39.814118,-73.225765,Río Callecalle,Río,645.44,Río Callecalle,Río,645.44,Estero Santa Rosa,Estero,3663.47
+S11,S11 Cochrane,Servicio,-39.819415,-73.245992,Río Valdivia,Río,581.82,Río Valdivia,Río,581.82,Masa Lacustre / Laguna,Laguna,2738.49
+S12,S12 Anibal Pinto,Servicio,-39.819159,-73.242747,Río Valdivia,Río,914.34,Río Valdivia,Río,914.34,Masa Lacustre / Laguna,Laguna,2863.57
+S13,S13 Yungay,Servicio,-39.817864,-73.248763,Río Valdivia,Río,219.17,Río Valdivia,Río,219.17,Masa Lacustre / Laguna,Laguna,2922.21
+S14,S14 Chacabuco,Servicio,-39.813394,-73.243173,Río Callecalle,Río,673.01,Río Callecalle,Río,673.01,Estero Santa Rosa,Estero,3367.38
+S15,S15 Beauchef,Servicio,-39.817884,-73.240082,Río Callecalle,Río,1001.76,Río Callecalle,Río,1001.76,Masa Lacustre / Laguna,Laguna,3138.11
+S16,S16 Pï¿½rez Rosales,Servicio,-39.816955,-73.246939,Río Callecalle,Río,376.81,Río Callecalle,Río,376.81,Masa Lacustre / Laguna,Laguna,3073.8
+S17,S17 Yerbas Buenas,Servicio,-39.817996,-73.243557,Río Valdivia,Río,780.06,Río Valdivia,Río,780.06,Masa Lacustre / Laguna,Laguna,2999.79
+S18,S18 - Miraflores,Servicio,-39.833796,-73.252672,Río Valdivia,Río,275.4,Río Valdivia,Río,275.4,Masa Lacustre / Laguna,Laguna,648.98
+S19,S19 Simpson,Servicio,-39.829688,-73.229333,Río Callecalle,Río,1387.05,Río Callecalle,Río,1387.05,Masa Lacustre / Laguna,Laguna,2653.08
+S20,S20 - Domeyko,Servicio,-39.825932,-73.247889,Río Valdivia,Río,501.8,Río Valdivia,Río,501.8,Masa Lacustre / Laguna,Laguna,1771.37
+S22,S22 - Goycolea,Servicio,-39.827414,-73.246429,Río Valdivia,Río,612.99,Río Valdivia,Río,612.99,Masa Lacustre / Laguna,Laguna,1599.29
+S23,S23 - Clemente Escobar,Servicio,-39.824327,-73.242947,Río Valdivia,Río,1094.98,Río Valdivia,Río,1094.98,Masa Lacustre / Laguna,Laguna,2153.31
+S24,S24 - Bueras,Servicio,-39.828952,-73.2446,Río Valdivia,Río,797.01,Río Valdivia,Río,797.01,Masa Lacustre / Laguna,Laguna,1467.83
+S25,S25 Francia,Servicio,-39.837947,-73.232227,Estero Sin Nombre / Dren,Estero,1990.19,Estero Sin Nombre / Dren,Estero,1990.19,Masa Lacustre / Laguna,Laguna,2026.74
+S26,S26 - Baquedano,Servicio,-39.822908,-73.237867,Río Callecalle,Río,1201.72,Río Callecalle,Río,1201.72,Masa Lacustre / Laguna,Laguna,2602.69
+S27,S27 - Pedro Montt,Servicio,-39.843819,-73.232525,Estero Sin Nombre / Dren,Estero,1410.43,Estero Sin Nombre / Dren,Estero,1410.43,Masa Lacustre / Laguna,Laguna,2054.31
+S28,S28 Errï¿½zuriz,Servicio,-39.828051,-73.224309,Río Callecalle,Río,1009.27,Río Callecalle,Río,1009.27,Masa Lacustre / Laguna,Laguna,3259.44
+S29,S29 Renï¿½ Schneider,Servicio,-39.834292,-73.220387,Río Callecalle,Río,1908.76,Río Callecalle,Río,1908.76,Masa Lacustre / Laguna,Laguna,3403.5
+S30,S30 Av. Balmaceda,Servicio,-39.813645,-73.209598,Río Callecalle,Río,293.73,Río Callecalle,Río,293.73,Estero Santa Rosa,Estero,4536.64
+S31,S31 Circunvalaciï¿½n sur,Servicio,-39.843392,-73.223693,Estero Angochilla,Estero,1344.41,Estero Angochilla,Estero,1344.41,Estero Angochilla,Estero,2328.67
+S32,S32 - Circunvalaciï¿½n Nueva Region,Servicio,-39.85579,-73.245025,Estero Sin Nombre / Dren,Estero,656.04,Estero Sin Nombre / Dren,Estero,656.04,Masa Lacustre / Laguna,Laguna,1908.84
+S33,S33 Anibal Pinto tramo 2,Servicio,-39.826717,-73.239934,Río Valdivia,Río,1342.64,Río Valdivia,Río,1342.64,Masa Lacustre / Laguna,Laguna,2017.09
+S34,S34 - Luis Damann Asenjo,Servicio,-39.849837,-73.242909,Estero Sin Nombre / Dren,Estero,52.5,Estero Sin Nombre / Dren,Estero,52.5,Masa Lacustre / Laguna,Laguna,1387.28
+S35,S35 - General Lagos,Servicio,-39.830996,-73.250862,Río Valdivia,Río,163.65,Río Valdivia,Río,163.65,Masa Lacustre / Laguna,Laguna,1012.24
+S36,S36 - Simpson (tramo 2),Servicio,-39.836242,-73.245459,Masa Lacustre / Laguna,Laguna,623.25,Río Valdivia,Río,1092.22,Masa Lacustre / Laguna,Laguna,623.25
+S37,S37 Bueras tramo 2,Servicio,-39.825483,-73.231491,Río Callecalle,Río,980.66,Río Callecalle,Río,980.66,Masa Lacustre / Laguna,Laguna,2792.14
+S38,S38 - Pedro Montt tramo 2,Servicio,-39.82513,-73.236038,Río Callecalle,Río,1273.1,Río Callecalle,Río,1273.1,Masa Lacustre / Laguna,Laguna,2467.53
+S39,S39 General Mackenna,Servicio,-39.83177,-73.212635,Río Callecalle,Río,1787.55,Río Callecalle,Río,1787.55,Estero Angochilla,Estero,4270.37
+S40,S40 Holzapfel,Servicio,-39.828148,-73.208106,Río Callecalle,Río,1601.54,Río Callecalle,Río,1601.54,Masa Lacustre / Laguna,Laguna,4938.41
+S41,S41 Alonso Villanueva,Servicio,-39.835927,-73.201419,Río Callecalle,Río,2950.31,Río Callecalle,Río,2950.31,Estero Las Parras,Estero,4176.53
+S42,S42 Donald Canter,Servicio,-39.830062,-73.202743,Río Callecalle,Río,2198.03,Río Callecalle,Río,2198.03,Estero Angochilla,Estero,4979.53
+S43,S43 Brasil,Servicio,-39.824075,-73.20986,Río Callecalle,Río,1022.96,Río Callecalle,Río,1022.96,Masa Lacustre / Laguna,Laguna,4960.86
+S44,S44 Bolivia,Servicio,-39.823092,-73.209577,Río Callecalle,Río,941.57,Río Callecalle,Río,941.57,Masa Lacustre / Laguna,Laguna,5048.88
+S45,S45 Schneider,Servicio,-39.848924,-73.220439,Estero Angochilla,Estero,464.63,Estero Angochilla,Estero,464.63,Estero Angochilla,Estero,1637.88
+S46,S46 - Italia,Servicio,-39.835361,-73.23761,Masa Lacustre / Laguna,Laguna,1493.0,Río Valdivia,Río,1768.83,Masa Lacustre / Laguna,Laguna,1493.0
+S47,S47 Rubï¿½n Dario tramo 2,Servicio,-39.84046,-73.214521,Estero Angochilla,Estero,1701.55,Estero Angochilla,Estero,1701.55,Estero Angochilla,Estero,3027.22
+S48,S48 - Josï¿½ Muï¿½oz Hermosilla,Servicio,-39.833052,-73.232095,Río Callecalle,Río,1957.11,Río Callecalle,Río,1957.11,Masa Lacustre / Laguna,Laguna,2178.27
+S49,S49 Av. Circunvalaciï¿½n Nueva Regiï¿½n tramo 2,Servicio,-39.852918,-73.211732,Estero Angochilla,Estero,776.52,Estero Angochilla,Estero,776.52,Estero Angochilla,Estero,1852.98
+S50,S50 - Circunvalaciï¿½n Sur,Servicio,-39.843959,-73.236965,Estero Sin Nombre / Dren,Estero,993.33,Estero Sin Nombre / Dren,Estero,993.33,Masa Lacustre / Laguna,Laguna,1592.72
+S51,S51 - Arica,Servicio,-39.834659,-73.255488,Río Valdivia,Río,185.12,Río Valdivia,Río,185.12,Masa Lacustre / Laguna,Laguna,714.69
+S52,S52 - Guacamayo,Servicio,-39.84024,-73.257551,Masa Lacustre / Laguna,Laguna,525.24,Estero Sin Nombre / Dren,Río,675.29,Masa Lacustre / Laguna,Laguna,525.24
+S53,S53 Av. Espaï¿½a,Servicio,-39.810703,-73.232279,Río Callecalle,Río,328.69,Río Callecalle,Río,328.69,Estero Santa Rosa,Estero,3000.61
+S54,S54 Isabel Rodas,Servicio,-39.810098,-73.226524,Río Callecalle,Río,882.37,Río Callecalle,Río,882.37,Estero Santa Rosa,Estero,3088.11
+S55,S55 Sedeï¿½o,Servicio,-39.81076,-73.22113,Río Callecalle,Río,1049.09,Río Callecalle,Río,1049.09,Estero Santa Rosa,Estero,3438.09
+S56,S56 - Francia,Servicio,-39.830921,-73.241326,Río Valdivia,Río,1185.65,Río Valdivia,Río,1185.65,Masa Lacustre / Laguna,Laguna,1451.75
+S57,S57 Los Torreones Norte,Servicio,-39.796917,-73.215726,Río Callecalle,Río,472.77,Río Callecalle,Río,472.77,Estero Santa Rosa,Estero,2525.01
+S59,S59 Vicente Carvallo,Servicio,-39.792383,-73.215739,Río Callecalle,Río,728.99,Río Callecalle,Río,728.99,Estero Santa Rosa,Estero,2343.06
+S60,S60 Av. Matta,Servicio,-39.806639,-73.207873,Río Callecalle,Río,386.2,Río Callecalle,Río,386.2,Estero Santa Rosa,Estero,3991.62
+T01,T01 Av. Pedro Aguirre Cerda,Troncal,-39.810592,-73.218524,Río Callecalle,Río,767.36,Río Callecalle,Río,767.36,Estero Santa Rosa,Estero,3573.19
+T02,T02 Ramï¿½n Picarte,Troncal,-39.835735,-73.212904,Río Callecalle,Río,2302.62,Río Callecalle,Río,2302.62,Estero Angochilla,Estero,3725.81
+T03,T03 Los Robles,Troncal,-39.810277,-73.256683,Río Callecalle,Río,896.28,Río Callecalle,Río,896.28,Estero Santa Rosa,Estero,3427.23
+T04,T04 Los Lingues,Troncal,-39.813046,-73.259147,Río Callecalle,Río,1070.71,Río Callecalle,Río,1070.71,Masa Lacustre / Laguna,Laguna,3737.1
+T05,T05 Manuel Aguero,Troncal,-39.803853,-73.253828,Río Caucau,Río,460.27,Río Caucau,Río,460.27,Estero Santa Rosa,Estero,2473.25
+T06,T06 Av. Espaï¿½a,Troncal,-39.801501,-73.246072,Río Caucau,Río,282.2,Río Caucau,Río,282.2,Estero Santa Rosa,Estero,1767.9
+T07,T07 Ruta T-344 (ruta cabo blanco),Troncal,-39.798955,-73.239861,Río Caucau,Río,1058.83,Río Caucau,Río,1058.83,Estero Santa Rosa,Estero,1251.44
+T08,T08 - Ruta T-350,Troncal,-39.836392,-73.27458,Río Valdivia,Río,826.54,Río Valdivia,Río,826.54,Estero Estancilla,Estero,1224.6
+T09,T09 Ruta T-340,Troncal,-39.827195,-73.27474,Río Cruces,Río,815.84,Río Cruces,Río,815.84,Estero Estancilla,Estero,1335.63
+T10,T10 Av. Circunvalaciï¿½n Sur,Troncal,-39.847107,-73.20585,Estero Angochilla,Estero,1567.65,Estero Angochilla,Estero,1567.65,Estero Las Parras,Estero,2608.19
+T11,T11 Pedro Castelblanco,Troncal,-39.842323,-73.199823,Estero Angochilla,Estero,2495.14,Estero Angochilla,Estero,2495.14,Estero Las Parras,Estero,3252.61
+T12,T12 Alemania,Troncal,-39.813721,-73.238597,Río Callecalle,Río,482.75,Río Callecalle,Río,482.75,Estero Santa Rosa,Estero,3392.16
+T13,T13 Carampangue,Troncal,-39.81226,-73.242706,Río Callecalle,Río,603.14,Río Callecalle,Río,603.14,Estero Santa Rosa,Estero,3198.17
+T14,T14 Carlos Anwandter,Troncal,-39.815012,-73.236996,Río Callecalle,Río,476.03,Río Callecalle,Río,476.03,Estero Santa Rosa,Estero,3582.74
+T15,T15 Circunvalaciï¿½n Oriente,Troncal,-39.824294,-73.204731,Río Callecalle,Río,1457.77,Río Callecalle,Río,1457.77,Masa Lacustre / Laguna,Laguna,5475.92
+T16,T16 Ruta 204,Troncal,-39.810912,-73.203651,Río Callecalle,Río,880.18,Río Callecalle,Río,880.18,Estero Santa Rosa,Estero,4742.55

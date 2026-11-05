@@ -1,0 +1,5 @@
+﻿tipo_campana_medicion,total_sensores,distancia_promedio_m,distancia_minima_m,distancia_maxima_m,cuerpo_agua_mas_frecuente
+Colectora,10,1916.37,1007.23,3556.01,Zanjon de La Aguada
+Estaciones,7,2090.75,370.84,3925.31,Zanjon de La Aguada
+Servicio,7,1287.06,344.15,3068.31,Río Mapocho
+Troncal,10,2376.96,1.25,7065.29,Río Mapocho

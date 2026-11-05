@@ -1,0 +1,5 @@
+﻿tipo_campana_medicion,total_sensores,distancia_promedio_m,distancia_minima_m,distancia_maxima_m,cuerpo_agua_mas_frecuente
+Colectora,23,562.81,225.11,1281.57,Río Callecalle
+Local,16,1248.23,293.32,2405.76,Río Callecalle
+Servicio,58,1017.55,52.5,2950.31,Río Callecalle
+Troncal,16,1027.71,282.2,2495.14,Río Callecalle
